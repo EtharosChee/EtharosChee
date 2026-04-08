@@ -1,5 +1,5 @@
 # Ethan Yiheng Chi
-
+<!-- 将照片放在右上角 --> <div style="float: right; margin: 0 0 10px 10px;"> <img src="photo_Glenelg.jpg" alt="Yiheng (Ethan) Chi" width="150" /> </div>
 📧 chiyiheng268@gmail.com  
 📍 Adelaide, Australia (Open to Relocate)  
 🔗 LinkedIn: https://www.linkedin.com/in/yiheng-chi-4757a2321/  
