@@ -1,136 +1,128 @@
-# EtharosChee.github.io
+# Ethan Yiheng Chi
 
-# Yiheng(Ethan) Chi, B.Math.Sc.(Hons.)
-
-<!-- 将照片放在右上角 -->
-<div style="float: right; margin: 0 0 10px 10px;">
-  <img src="photo_Glenelg.jpg" alt="Yiheng (Ethan) Chi" width="150" />
-</div>
-
-📧 [yiheng.chi@student.adelaide.edu.au](mailto:yiheng.chi@student.adelaide.edu.au) | 
-📧 [chiyiheng268@gmail.com](mailto:chiyiheng268@gmail.com)
-
-🐦 [@EtharosChee](https://x.com/EtharosChee) | 
-🔗 [@Yiheng Chi on LinkedIn](https://www.linkedin.com/in/yiheng-chi-4757a2321/)
-
-📍 School of Computer and Mathematical Sciences, University of Adelaide, SA 5005, Australia.  
-🏠 [EtharosChee.github.io](https://EtharosChee.github.io) | ☎️ +61 4 1668 8443
+📧 chiyiheng268@gmail.com  
+📍 Adelaide, Australia (Open to Relocate)  
+🔗 LinkedIn: https://www.linkedin.com/in/yiheng-chi-4757a2321/  
+🌐 Personal Website: https://EtharosChee.github.io  
 
 ---
-**Self Evaluation:** I am a Year 3 Mathematical Science student curious about machine learning research and desiring to
-engage in a project related to prediction models and deep learning methodology. I am eager to apply for the university’s
-summer research program, with a strong interest in receiving guidance from an erudite supervisor to improve my
-academic performance and research outcome.
+
+## About
+
+I am a final-year Honours student in Mathematical Sciences at the University of Adelaide, with a strong focus on quantitative research, high-frequency alpha modelling, and statistical learning.
+
+My work sits at the intersection of market microstructure, behavioural finance, and machine learning, with practical experience in building alpha signals from tick-level data and translating research into deployable strategies.
+
+I will be pursuing an M.Sc. in Mathematical Sciences at the University of Oxford starting October 2026.
+
+---
 
 ## Education
 
-### 2022-2024
-**B.Sc., Ocean University of China** in Mathematics and Applied Mathematics.  
-*Main courses*: SMI, ODE, Advanced Algebra, Optimization, Real Analysis, Complex Analysis, Probability and Statistics, Spatial Analytic Geometry, University Physics and etc.
+University of Oxford — Oxford, UK  
+M.Sc. in Mathematical Sciences  
+Oct 2026 – Jul 2027 (Expected)
 
-### 2024 - \.\.\.\.
-**B.Math.Sc.(Hons.), University of Adelaide** in Mathematical Science.  
-*Main courses*: Random Process, Data Science, Decision Science, and Capstone project.
+University of Adelaide — Adelaide, AU  
+Bachelor of Mathematical Sciences (Honours)  
+Jul 2024 – Jul 2026  
+GPA: 6.9 / 7.0  
 
----
+Ocean University of China — Qingdao, CN  
+B.Sc. in Mathematics and Applied Mathematics  
+Aug 2022 – Jul 2024  
+Rank: 1 / 126  
 
-## Research Experience
-
-### 2023
-- 🏅 **Machine Learning for Finance Online Research Seminar**, supervised by Patrick Rebeschini, Professor of Machine Learning, Department of Statistics, Oxford University
-
-### 2024
-- 🏅 **Weather Changes Like the Weather Itself, COMAP's ICM Finalist**, developing advanced predictive models to assess the impact of extreme weather on insurance, real estate, and cultural landmarks. The paper involved using SARIMA for weather forecasting, Entropy Weight Method and Analytic Hierarchy Process for risk and estate assessment, and a multi-layer AHP model for landmark protection. [Click here to view the PDF](https://github.com/EtharosChee/EtharosChee.github.io/blob/main/2403378.pdf)
-
----
-
-## Conference Proceedings
-
-1. **Y. Chi**, “Predictive analysis of Tesla's stock closing prices utilizing LSTM and GRU deep learning models,” in *Proceedings of the 1st International Conference on Data Science and Engineering - ICDSE*, INSTICC, SciTePress, 2024, pp. 422–428, ISBN: 978-989-758-690-3. [DOI: 10.5220/0012807500004547](https://doi.org/10.5220/0012807500004547).
-   
-**Main Research Result:**
-Developed and applied advanced deep learning models (LSTM, GRU) to predict Tesla’s stock prices, demonstrating a hybrid approach's potential effectiveness in capturing volatile financial trends.
-   
----
-
-## Internship Experience
-
-### 2023.07 – 2023.09
-**Industry Research Intern**, China Galaxy Securities Co., Ltd.  
-Acquired knowledge of securities products, marketing strategies, and the structure and function of securities companies on stocks, funds, and fixed income products.
+Selected Coursework:  
+Time Series Analysis, Random Processes, Applied Probability, Optimisation, Statistical Modelling
 
 ---
 
-## Professional Activities
+## Work Experience
 
-### Social Experience
+Quantitative Research Intern  
+Qilin Investment Management Co., Ltd. — Shanghai  
+Jan 2026 – Mar 2026  
 
-#### 2023-2024
-- 🏅 **Student Assistance and Public Service Position**, Haide College  
-  Actively participated in and supported various assistance and public service activities.
+- Developed 100+ alpha factors using 5-minute tick data, including order-flow intensity signals based on marked Hawkes processes and behavioural signals derived from regret aversion theory  
+- Backtested factors on 10+ years of A-share data using IC and horizon decay analysis  
+- Improved Information Ratio (IR) by ~15% over baseline  
+- Integrated selected signals into the firm’s Alpha Library  
 
-#### Jul, 2023
-- 🏅 **Rural Revitalization Practice Team in Houguan Village, Shangjie Town**  
-  Selected as an "Outstanding Social Practice Team" (University Level) in the 2023 Summer Social Practice Activities for College Students, Ocean University of China.
+Quantitative & Investment Research Intern  
+Beijing Xiye Investment Management Co., Ltd. — Beijing  
+Dec 2024 – Jan 2025  
 
-### Leadership Experience
+- Built a BERT-based sentiment model combining financial statements and news data  
+- Engineered sentiment factors such as polarity and persistence  
+- Packaged 20+ factors into modular pipelines for portfolio optimisation  
+- Supported fund launch with 30+ pages of materials  
 
-#### 2022-2023
-- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
+Industry Research Intern  
+China Galaxy Securities Co., Ltd. — Xiamen  
+Aug 2023  
 
-#### 2023-2024
-- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
-
----
-
-## Honours and Awards
-
-### 2022-2023
-- 🏅 **China National Scholarship**, awarded by the Ministry of Education of the People's Republic of China (Top 0.1% nationwide, open to undergraduate, master's, and Ph.D. students)
-- 🏅 **First-Class University Scholarship**, awarded by Ocean University of China
-- 🏅 **Honorary Title of "Outstanding Student"**, Ocean University of China
-
-### 2023
-- 🏅 **National Third Prize**, "Zhengda Cup" National University Student Market Research and Analysis Competition, China
-- 🏅 **Provincial Second Prize**, Undergraduate Group of "Higher Education Press" Cup National University Student Mathematical Contest in Modeling, Shandong Province, China
-
-### 2024
-- 🏅 **National Second Prize**, "Huashu Cup" National University Student Mathematical Contest in Modeling, China
-- 🏅 **Finalist Prize Winner**, COMAP’s Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM), worldwide
+- Conducted offshore wind industry research and built structured datasets  
+- Delivered insights to high-net-worth clients  
+- Authored a 20+ page industry report  
 
 ---
 
-## Skills
+## Research & Projects
 
-### Languages
-- 🏅 Strong reading, writing and speaking competencies for English (British accent), Mandarin Chinese, and adequate speaking competency for Japanese.
+Cybersickness Prediction via Walking Kinematics  
+Australian Institute for Machine Learning (AIML)  
+Mar 2025 – Jan 2026  
 
-### Coding Skills
-- 🏅 Python, R, SQL, LaTeX, MATLAB, C…
+- Built signal processing pipeline for motion capture data  
+- Identified vertical centre-of-mass displacement as key biomarker  
+- Paper accepted at IEEE VR 2026 and IEEE TVCG  
 
-### Artistic Interests
-- 🏅 Violin, piano, vocal performance, oil painting, etc.
+Extreme Weather Risk Modelling (COMAP ICM Finalist)  
+Feb 2024 – Apr 2024  
 
----
-
-## Certification
-
-### 2023
-- 🏅 **CET-4 and CET-6 Passed**
-
-### 2024
-- 🏅 **IELTS** Overall Band Score: 7.0
-- 🏅 **GRE** Total Score: 326
+- Developed regional risk scoring model using SARIMA + AHP  
+- Applied entropy weighting and multi-criteria decision methods  
 
 ---
 
-## References and Additional Information
+## Technical Skills
 
-Appendix 1: Weather Changes Like Weather Itself, a Finalist paper of COMAP's ICM competition. 
+Programming: Python, R, C++, SQL, MATLAB  
 
-The .pdf file has been uploaded and is available here. [Click here to view the PDF](https://github.com/EtharosChee/EtharosChee.github.io/blob/main/2403378.pdf)
+Tools: Pandas, NumPy, scikit-learn, PyTorch, Tableau, Power BI, Git, Linux  
 
-Additional materials are **available on request**, please feel free to **contact me**. Thank you!
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
-Love you my friend
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+Quant Methods:  
+Time series modelling, high-frequency data analysis, factor modelling, Hawkes processes, behavioural finance  
+
+---
+
+## Awards & Honours
+
+- China National Scholarship  
+- Global Citizens Scholarship  
+- COMAP ICM Finalist  
+- First-Class Scholarship  
+- Summer Research Scholarship  
+
+---
+
+## Interests
+
+- Marathon running  
+- Violin (Grade 10)  
+- Reading (investing & decision-making)  
+- Travel  
+
+---
+
+## Selected Work
+
+COMAP ICM Paper  
+https://github.com/EtharosChee/EtharosChee.github.io/blob/main/2403378.pdf  
+
+---
+
+## Contact
+
+Feel free to reach out for collaboration or opportunities in quantitative finance.
