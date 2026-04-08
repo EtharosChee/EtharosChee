@@ -1,4 +1,4 @@
-# Ethan Yiheng Chi
+# Ethan (Yiheng) Chi
 
 <!-- Photo placed at the top right -->
 <div style="float: right; margin: 0 0 10px 10px;">
